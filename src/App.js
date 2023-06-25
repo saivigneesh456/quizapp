@@ -120,7 +120,7 @@ const resetQuiz=()=>
                     You have answered {score} / {Questionbank.length} Correctly
                     <>
                        <Button type="submit" onClick={resetQuiz} text = "Start Quiz"></Button>
-                       ⏪StartQuizz Again
+                       ⏪StartQuiz Again
                     </>
                 </div>
             )
